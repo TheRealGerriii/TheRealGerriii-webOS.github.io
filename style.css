@@ -1,0 +1,16 @@
+body{
+	background:  burlywood;
+	margin: 0;
+	
+}
+div {
+	max-width:880px;
+	width:90%;
+	background: darkgray;
+	margin: 0 auto;
+	padding:20px;
+	border: 5px;
+}
+.Links a{
+	color:darkmagenta;
+}
